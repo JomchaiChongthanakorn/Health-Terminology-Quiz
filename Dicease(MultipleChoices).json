@@ -1,0 +1,183 @@
+[  
+    {
+        "question": "Which one of the following procedures would be used to break down a kidney stone?",
+      "answers": [
+        { "text": "Lithotripsy", "correct": true },
+        { "text": "Nephrectomy", "correct": false },
+        { "text": "Renal dialysis", "correct": false },
+        { "text": "Urolithiasi", "correct": false }
+      ]
+    },
+    {
+      "question": "Which one of the following procedures would be used to withdraw fluid from around the fetus for prenatal testing?",
+      "answers": [
+        { "text": "Amniocentesis", "correct": true },
+        { "text": "Cystocentesis", "correct": false },
+        { "text": "Pleurocentesis", "correct": false },
+        { "text": "Lumbar puncture", "correct": false }
+      ]
+    },
+    {
+        "question": "Which one of the following medical terms describes the hardening of the wall of an artery by plaque formation?",
+        "answers": [
+          { "text": "Atherosclerosis", "correct": true },
+          { "text": "Aortic stenosis", "correct": false },
+          { "text": "Phlebitis", "correct": false },
+          { "text": "Arterionecrosis", "correct": false }
+        ]
+    },
+    {
+        "question": "What term means when disease symptoms return? ",
+        "answers": [
+          { "text": "Prolapse", "correct": false },
+          { "text": "Relapse", "correct": true },
+          { "text": "Syndrome", "correct": false },
+          { "text": "Remission", "correct": false }
+        ]
+    },
+    {
+        "question": "What is the term for a blood clot dislodged from a deep vein in the lower extremity that was carried to the pulmonary artery, causing a blockage of circulation to the patient’s lung?",
+        "answers": [
+          { "text": "Kyphosis", "correct": false },
+          { "text": "Lordosis", "correct": false },
+          { "text": "Scoliosis", "correct": true },
+          { "text": "Spondylosis", "correct": false }
+        ]
+    },
+    {
+        "question": "Which of the following is the term for an abnormally low white blood cell count?",
+        "answers": [
+          { "text": "Anemia", "correct": false },
+          { "text": "Leukemia", "correct": false },
+          { "text": "Leukocytosis", "correct": false },
+          { "text": "Leukoplakia", "correct": true }
+        ]
+    },
+    {
+        "question": "Which of the following is the term for abnormally large breasts in men?",
+        "answers": [
+          { "text": "Gynander", "correct": false },
+          { "text": "Gynecomania", "correct": false },
+          { "text": "Gynecomastia", "correct": false },
+          { "text": "Gynephobia", "correct": true }
+        ]
+    },
+    {
+        "question": "Inflammation of a sweat gland is known as which of the following terms?",
+        "answers": [
+          { "text": "Colitis", "correct": false },
+          { "text": "Fasciitis", "correct": false },
+          { "text": "Hidradenitis", "correct": false },
+          { "text": "Pimelitis", "correct": true }
+        ]
+    },
+    {
+        "question": "Which one of the following medical conditions involves inflammation of the membranes of the abdominal cavity?",
+        "answers": [
+          { "text": "Pancreatitis", "correct": false },
+          { "text": "Pericarditis", "correct": false },
+          { "text": "Peritonitis", "correct": true },
+          { "text": "Pharyngitis", "correct": false }
+        ]
+    },
+    {
+        "question": "The patient's complaint of painful menstrual periods will be documented in the medical record as which of the following?",
+        "answers": [
+          { "text": "Amenorrhea", "correct": false },
+          { "text": "Dysmenorrhea", "correct": true },
+          { "text": "Menorrhagia", "correct": false },
+          { "text": "Menorrhea", "correct": false }
+        ]
+    },
+    {
+        "question": "Which of the following terms refers to pain?",
+        "answers": [
+          { "text": "Arthralgia", "correct": true },
+          { "text": "Diplopia", "correct": false },
+          { "text": "Dysplasia", "correct": false },
+          { "text": "Hemiplegia", "correct": false }
+        ]
+    },
+    {
+        "question": "What medical condition is a group of cardiac disabilities resulting from an insufficient supply of oxygenated blood to the heart?",
+        "answers": [
+          { "text": "Angina", "correct": false },
+          { "text": "Coronary artery disease", "correct": false },
+          { "text": "Valvular prolapse", "correct": false },
+          { "text": "Ischemic heart disease", "correct": true }
+        ]
+    },
+    {
+        "question": "The abnormal protrusion of a heart valve is known as",
+        "answers": [
+          { "text": "valvulitis", "correct": false },
+          { "text": "valvular stenosis", "correct": false },
+          { "text": "valvular prolapse", "correct": true },
+          { "text": "pericarditis", "correct": false }
+        ]
+    },
+    {
+        "question": "What medical term describes an abnormally rapid rate of respiration?",
+        "answers": [
+          { "text": "Apnea", "correct": false },
+          { "text": "Tachypnea", "correct": true },
+          { "text": "Hypopnea", "correct": false },
+          { "text": "Dyspnea", "correct": false }
+        ]
+    },
+    {
+        "question": "What term describes an abnormal, white precancerous lesion that develops on the tongue or the inside of the cheek?",
+        "answers": [
+          { "text": "Oral thrush", "correct": false },
+          { "text": "Cheilosis", "correct": false },
+          { "text": "Aphthous ulcer", "correct": false },
+          { "text": "Leukoplakia", "correct": true }
+        ]
+    },
+    {
+        "question": "What medical term means the vomiting of blood?",
+        "answers": [
+          { "text": "Tomy", "correct": false },
+          { "text": "Itis", "correct": true },
+          { "text": "Scope", "correct": false },
+          { "text": "Osis", "correct": false }
+        ]
+    },
+    {
+        "question": "Which of the following professionals specializes in diagnosing and treating diseases and disorders of the female reproductive system?",
+        "answers": [
+          { "text": "Neonatologist", "correct": false },
+          { "text": "Gynecologist", "correct": true },
+          { "text": "Infertility specialist", "correct": false },
+          { "text": "Obstetrician", "correct": false }
+        ]
+    },
+    {
+        "question": "Which class of diseases is characterized by the uncontrolled division of cells?",
+        "answers": [
+          { "text": "Immunodeficiency disorders", "correct": false },
+          { "text": "Neoplasm", "correct": false },
+          { "text": "Cancer", "correct": true },
+          { "text": "STDs", "correct": false }
+        ]
+    },
+    {
+        "question": "Which condition is also known as a pinched nerve?",
+        "answers": [
+          { "text": "Radiculitis", "correct": true },
+          { "text": "Sciatica", "correct": false },
+          { "text": "Myelosis", "correct": false },
+          { "text": "Neuritis", "correct": false }
+        ]
+    },
+    {
+        "question": "In which chronic disorder does the amount of fluid in the inner ear increase intermittently and cause vertigo, fluctuating hearing loss, and tinnitus?",
+        "answers": [
+          { "text": "Ménière’s disease", "correct": true },
+          { "text": "Acoustic neuroma", "correct": false },
+          { "text": "Labyrinthitis", "correct": false },
+          { "text": "Cholesteatoma", "correct": false }
+        ]
+    }
+
+  ]

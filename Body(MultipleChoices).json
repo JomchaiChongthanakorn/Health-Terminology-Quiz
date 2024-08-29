@@ -1,0 +1,183 @@
+[  
+    {
+        "question": "The prefix pertaining to fingernail is which of the following terms?",
+      "answers": [
+        { "text": "Onych-", "correct": true },
+        { "text": "Olfact-", "correct": false },
+        { "text": "Omphal-", "correct": false },
+        { "text": "Onco-", "correct": false }
+      ]
+    },
+    {
+      "question": "Which of the following is the plural form of the medical term that means chest?",
+      "answers": [
+        { "text": "Alveoli", "correct": false },
+        { "text": "Apices", "correct": false },
+        { "text": "Thoraces", "correct": true },
+        { "text": "Pleurae", "correct": false }
+      ]
+    },
+    {
+        "question": "Which of the following terms is used to describe a lateral curvature of the spine?",
+        "answers": [
+          { "text": "Kyphosis", "correct": false },
+          { "text": "Scoliosis", "correct": true },
+          { "text": "Osteoporosis", "correct": false },
+          { "text": "Lordosis", "correct": false }
+        ]
+    },
+    {
+        "question": "Membrane surrounding the heart",
+        "answers": [
+          { "text": "Perycardium", "correct": false },
+          { "text": "Pericardium", "correct": true },
+          { "text": "Pericardum", "correct": false },
+          { "text": "Pericurdum", "correct": false }
+        ]
+    },
+    {
+        "question": "Which of the following is the CORRECT spelling for the focusing ability of the eye?",
+        "answers": [
+          { "text": "Accomedation", "correct": false },
+          { "text": "Acomodation", "correct": false },
+          { "text": "Accommodation", "correct": true },
+          { "text": "Acommodation", "correct": false }
+        ]
+    },
+    {
+        "question": "In which part of the body are the adenoids located?",
+        "answers": [
+          { "text": "Stomach", "correct": false },
+          { "text": "Inner ear", "correct": false },
+          { "text": "Kidneys", "correct": false },
+          { "text": "Nasal pharynx", "correct": true }
+        ]
+    },
+    {
+        "question": "What is another name for adipose tissue?",
+        "answers": [
+          { "text": "Muscle", "correct": false },
+          { "text": "Fatty tissue", "correct": false },
+          { "text": "Bone marrow", "correct": false },
+          { "text": "Glandular tissue", "correct": true }
+        ]
+    },
+    {
+        "question": "Where in the human body are red blood cells produced?",
+        "answers": [
+          { "text": "Liver", "correct": false },
+          { "text": "Bone marrow", "correct": true },
+          { "text": "Pancreas", "correct": false },
+          { "text": "Spleen", "correct": false }
+        ]
+    },
+    {
+        "question": "What is the scientific name for red blood cells?",
+        "answers": [
+          { "text": "Erythrocytes", "correct": true },
+          { "text": "Thrombocytes", "correct": false },
+          { "text": "Leukocytes", "correct": false },
+          { "text": "Lymphocytes", "correct": false }
+        ]
+    },
+    {
+        "question": "Astigmatism affects which part of the human body?",
+        "answers": [
+          { "text": "Heart", "correct": false },
+          { "text": "Knees", "correct": false },
+          { "text": "Eyes", "correct": true },
+          { "text": "Liver", "correct": false }
+        ]
+    },
+    {
+        "question": "What powerful compound is produced in dilute amounts in the stomach?",
+        "answers": [
+          { "text": "Arthralgia", "correct": true },
+          { "text": "Diplopia", "correct": false },
+          { "text": "Dysplasia", "correct": false },
+          { "text": "Hemiplegia", "correct": false }
+        ]
+    },
+    {
+        "question": "Which of these disorders is also called Cooley anemia?",
+        "answers": [
+          { "text": "Pernicious anemia", "correct": false },
+          { "text": "Thalassemia", "correct": true },
+          { "text": "Sickle cell anemia", "correct": false },
+          { "text": "Megaloblastic anemia", "correct": false }
+        ]
+    },
+    {
+        "question": "The back of your hand is the _____ surface of your hand.",
+        "answers": [
+          { "text": "distal", "correct": false },
+          { "text": "proximal", "correct": false },
+          { "text": "dorsal", "correct": true },
+          { "text": "palmar", "correct": false }
+        ]
+    },
+    {
+        "question": "The front part, anterior, or palm of your hand is also known as the _____ side.",
+        "answers": [
+          { "text": "distal", "correct": false },
+          { "text": "palmar", "correct": true },
+          { "text": "dorsal", "correct": false },
+          { "text": "proximal", "correct": false }
+        ]
+    },
+    {
+        "question": "Your knee is _____ to your ankle.",
+        "answers": [
+          { "text": "ventral", "correct": false },
+          { "text": "distal", "correct": false },
+          { "text": "proximal", "correct": true },
+          { "text": "dorsal", "correct": false }
+        ]
+    },
+    {
+        "question": "Which of the following is the master gland of the endocrine system?",
+        "answers": [
+          { "text": "Adrenal", "correct": false },
+          { "text": "Pancreas", "correct": false },
+          { "text": "Pineal", "correct": false },
+          { "text": "Pituitary", "correct": true }
+        ]
+    },
+    {
+        "question": "Fertilization of an ovum by a spermatozoon occurs in which of the following structures?",
+        "answers": [
+          { "text": "Cervix", "correct": false },
+          { "text": "Fallopian tube", "correct": true },
+          { "text": "Ovary", "correct": false },
+          { "text": "Uterus", "correct": false }
+        ]
+    },
+    {
+        "question": "Which of the following are mucus-producing glands located on each side of the vaginal opening?",
+        "answers": [
+          { "text": "Adrenal", "correct": false },
+          { "text": "Bartholin's", "correct": true },
+          { "text": "Bulbourethral", "correct": false },
+          { "text": "Corpus luteum", "correct": false }
+        ]
+    },
+    {
+        "question": "In men, which of the following structures is located at the neck of the bladder and surrounds the urethra?",
+        "answers": [
+          { "text": "Epididymis", "correct": false },
+          { "text": "Prostate", "correct": true },
+          { "text": "Scrotum", "correct": false },
+          { "text": "Seminal vesicle", "correct": false }
+        ]
+    },
+    {
+        "question": "In men, specimens for gonococcal cultures are most commonly obtained from which of the following structures?",
+        "answers": [
+          { "text": "Urethra", "correct": true },
+          { "text": "Bladder", "correct": false },
+          { "text": "Skin", "correct": false },
+          { "text": "Testicle", "correct": false }
+        ]
+    }
+
+  ]

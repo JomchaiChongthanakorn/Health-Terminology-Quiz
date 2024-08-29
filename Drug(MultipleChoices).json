@@ -1,0 +1,273 @@
+[  
+    {
+      "question": "Which of the following is a synonym for 'medication'?",
+      "answers": [
+        { "text": "Remedy", "correct": true },
+        { "text": "Chemical", "correct": false },
+        { "text": "Prescription", "correct": false },
+        { "text": "Treatment", "correct": false }
+      ]
+    },
+    {
+      "question": "What medical term refers to the study of the actions and effects of drugs in the body?",
+      "answers": [
+        { "text": "Pharmacology", "correct": true },
+        { "text": "Physiology", "correct": false },
+        { "text": "Pathology", "correct": false },
+        { "text": "Endocrinology", "correct": false }
+      ]
+    },
+    {
+        "question": "Which term describes a substance used to kill or inhibit the growth of microorganisms, such as bacteria?",
+        "answers": [
+          { "text": "Remedy", "correct": false },
+          { "text": "Antibiotic", "correct": true },
+          { "text": "Placebo", "correct": false },
+          { "text": "Antioxidant", "correct": false }
+        ]
+    },
+    {
+        "question": "Which of the following terms describes a drug that mimics the effects of a neurotransmitter?",
+        "answers": [
+          { "text": "Antagonist", "correct": false },
+          { "text": "Agonist", "correct": true },
+          { "text": "Metabolite", "correct": false },
+          { "text": "Enzyme", "correct": false }
+        ]
+    },
+    {
+        "question": "What do we call the route of drug administration that involves injecting a substance directly into the bloodstream?",
+        "answers": [
+          { "text": "Subcutaneous", "correct": false },
+          { "text": "Intramuscular", "correct": false },
+          { "text": "Intravenous", "correct": true },
+          { "text": "Oral", "correct": false }
+        ]
+    },
+    {
+        "question": "Which term refers to the process by which a drug is eliminated from the body through the liver?",
+        "answers": [
+          { "text": "Excretion", "correct": false },
+          { "text": "Absorption", "correct": false },
+          { "text": "Distribution", "correct": false },
+          { "text": "Metabolism", "correct": true }
+        ]
+    },
+    {
+        "question": "Which term describes the unintended or harmful effects of a drug that occur at normal therapeutic doses?",
+        "answers": [
+          { "text": "Tolerance", "correct": false },
+          { "text": "Addiction", "correct": false },
+          { "text": "Side effect", "correct": true },
+          { "text": "Overdose", "correct": false }
+        ]
+    },
+    {
+        "question": "What term refers to the prescribed dosage of a drug for a patient, taking into account various factors?",
+        "answers": [
+          { "text": "Prescription", "correct": false },
+          { "text": "Dosage", "correct": true },
+          { "text": "Dose", "correct": false },
+          { "text": "Medication order", "correct": false }
+        ]
+    },
+    {
+        "question": "Which term describes the study of how drugs are administered, distributed, metabolized, and eliminated from the body?",
+        "answers": [
+          { "text": "Pharmacokinetics", "correct": true },
+          { "text": "Pharmacodynamics", "correct": false },
+          { "text": "Toxicology", "correct": false },
+          { "text": "Pharmacogenomics", "correct": false }
+        ]
+    },
+    {
+        "question": "What term refers to a medication that reduces fever?",
+        "answers": [
+          { "text": "Analgesic", "correct": false },
+          { "text": "Antibiotic", "correct": false },
+          { "text": "Antipyretic", "correct": true },
+          { "text": "Anticoagulant", "correct": false }
+        ]
+    },
+    {
+        "question": "Which term refers to a substance that counteracts the effects of a drug?",
+        "answers": [
+          { "text": "Agonist", "correct": false },
+          { "text": "Antagonist", "correct": true },
+          { "text": "Metabolite", "correct": false },
+          { "text": "Inhibitor", "correct": false }
+        ]
+    },
+    {
+        "question": "What term describes a drug's ability to bind to a specific receptor and produce a physiological response?",
+        "answers": [
+          { "text": "Tolerance", "correct": false },
+          { "text": "Affinity", "correct": true },
+          { "text": "Resistance", "correct": false },
+          { "text": "Sensitivity", "correct": false }
+        ]
+    },
+    {
+        "question": "Which term describes the process of converting a prodrug into its active form within the body?",
+        "answers": [
+          { "text": "Biotransformation", "correct": false },
+          { "text": "Elimination", "correct": false },
+          { "text": "Metabolism", "correct": true },
+          { "text": "Absorption", "correct": false }
+        ]
+    },
+    {
+        "question": "What term refers to the reduction in a drug's effectiveness after prolonged use?",
+        "answers": [
+          { "text": "Tolerance", "correct": true },
+          { "text": "Addiction", "correct": false },
+          { "text": "Overdose", "correct": false },
+          { "text": "Side effect", "correct": false }
+        ]
+    },
+    {
+        "question": "Which term describes the practice of combining two or more drugs to achieve a therapeutic effect?",
+        "answers": [
+          { "text": "Monotherapy", "correct": false },
+          { "text": "Antagonism", "correct": false },
+          { "text": "Polypharmacy", "correct": true },
+          { "text": "Toxicology", "correct": false }
+        ]
+    },
+    {
+        "question": "What term refers to the time it takes for the body to eliminate half of the drug from the system?",
+        "answers": [
+          { "text": "Distribution", "correct": false },
+          { "text": "Metabolism", "correct": false },
+          { "text": "Clearance", "correct": false },
+          { "text": "Half-life", "correct": true }
+        ]
+    },
+    {
+        "question": "Which term describes a medication that relieves pain without causing loss of consciousness?",
+        "answers": [
+          { "text": "Antidepressant", "correct": false },
+          { "text": "Antibiotic", "correct": false },
+          { "text": "Antipyretic", "correct": false },
+          { "text": "Analgesic", "correct": true }
+        ]
+    },
+    {
+        "question": "What term describes the study of genetic factors influencing an individual's response to drugs?",
+        "answers": [
+          { "text": "Pharmacokinetics", "correct": false },
+          { "text": "Pharmacogenomics", "correct": true },
+          { "text": "Pharmacodynamics", "correct": false },
+          { "text": "Toxicology", "correct": false }
+        ]
+    },
+    {
+        "question": "What term describes a type of drug interaction in which the combined effect of two drugs is greater than the sum of their individual effects?",
+        "answers": [
+          { "text": "Antagonism", "correct": false },
+          { "text": "Synergism", "correct": true },
+          { "text": "Tolerance", "correct": false },
+          { "text": "Resistance", "correct": false }
+        ]
+    },
+    {
+        "question": "Which term describes the phenomenon where a patient experiences withdrawal symptoms when a drug is discontinued?",
+        "answers": [
+          { "text": "Dependence", "correct": true },
+          { "text": "Tolerance", "correct": false },
+          { "text": "Addiction", "correct": false },
+          { "text": "Overdose", "correct": false }
+        ]
+    },
+    {
+      "question": "Which term refers to the process of breaking down a drug into its inactive form?",
+      "answers": [
+        { "text": "Absorption", "correct": false },
+        { "text": "Metabolism", "correct": true },
+        { "text": "Excretion", "correct": false },
+        { "text": "Distribution", "correct": false }
+      ]
+    },
+    {
+      "question": "What is the term for the study of the effects of drugs on the body and their mechanisms of action?",
+      "answers": [
+        { "text": "Pharmacology", "correct": true },
+        { "text": "Pathology", "correct": false },
+        { "text": "Physiology", "correct": false },
+        { "text": "Psychology", "correct": false }
+      ]
+    },
+    {
+      "question": "Which term describes a medication that decreases the sensation of pain without causing loss of consciousness?",
+      "answers": [
+        { "text": "Analgesic", "correct": true },
+        { "text": "Anesthetic", "correct": false },
+        { "text": "Antibiotic", "correct": false },
+        { "text": "Antipyretic", "correct": false }
+      ]
+    },
+    {
+      "question": "What is the medical term for the absorption of a drug through the skin or mucous membranes?",
+      "answers": [
+        { "text": "Intravenous", "correct": false },
+        { "text": "Topical", "correct": true },
+        { "text": "Subcutaneous", "correct": false },
+        { "text": "Oral", "correct": false }
+      ]
+    },
+    {
+      "question": "Which term refers to a substance that counteracts the effects of an overdose of a drug or poison?",
+      "answers": [
+        { "text": "Antibiotic", "correct": false },
+        { "text": "Antidote", "correct": true },
+        { "text": "Analgesic", "correct": false },
+        { "text": "Antipyretic", "correct": false }
+      ]
+    },
+    {
+      "question": "What is the term for the route of drug administration through the gastrointestinal tract?",
+      "answers": [
+        { "text": "Intravenous", "correct": false },
+        { "text": "Topical", "correct": false },
+        { "text": "Oral", "correct": true },
+        { "text": "Intramuscular", "correct": false }
+      ]
+    },
+    {
+      "question": "What is the medical term for the absorption of a drug through the skin or mucous membranes?",
+      "answers": [
+        { "text": "Intravenous", "correct": false },
+        { "text": "Topical", "correct": true },
+        { "text": "Subcutaneous", "correct": false },
+        { "text": "Oral", "correct": false }
+      ]
+    },
+    {
+      "question": "Which term describes the method of drug administration via an injection into the muscle?",
+      "answers": [
+        { "text": "Intravenous", "correct": false },
+        { "text": "Intramuscular", "correct": true },
+        { "text": "Subcutaneous", "correct": false },
+        { "text": "Oral", "correct": false }
+      ]
+    },
+    {
+      "question": "What is the medical term for a substance that prevents the formation of blood clots?",
+      "answers": [
+        { "text": "Analgesic", "correct": false },
+        { "text": "Antipyretic", "correct": false },
+        { "text": "Anticoagulant", "correct": true },
+        { "text": "Antihistamine", "correct": false }
+      ]
+    },
+    {
+      "question": "Which term refers to the use of a drug to kill or inhibit the growth of microorganisms?",
+      "answers": [
+        { "text": "Analgesic", "correct": false },
+        { "text": "Analgesic", "correct": false },
+        { "text": "Antiviral", "correct": false },
+        { "text": "Antibiotic", "correct": true }
+      ]
+    }
+
+  ]

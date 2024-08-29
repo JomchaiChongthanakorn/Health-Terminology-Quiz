@@ -1,0 +1,34 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title> Terminology Quiz</title>
+        <link rel="stylesheet" href="style2.css">
+    </head>
+    <body>
+        <div class="app">
+            <h1>Welcome to the True-False Quiz!</h1>
+
+            <header>
+                <div class="timer" style="display: none;">
+                    <div class="Time_left_txt">Time Left</div>
+                    <div class="timer_sec">10</div>
+                </div>
+                
+            </header>
+            <select id="test-selection">
+                <option value="">Please select</option>
+                <option value="PrefixTrueFalse">Prefix</option>
+                <option value="SuffixTrueFalse">Suffix</option>
+                <option value="Body(TrueFalse)">Body</option>
+            </select>
+            <div class="quiztf">
+                <h2 id="question"></h2> 
+                <div id="tf-answer-buttons"></div>
+                <button id="start-btn">Start Quiz</button>
+                <button id="next-btn" style="display: none;">Next</button>      
+            </div>
+        </div>
+        <script src = "TFscript.js"></script>
+
+    </body>
+</html>

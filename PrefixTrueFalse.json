@@ -1,0 +1,213 @@
+[  
+    {
+      "question": " The prefix 'hypo-' means excessive or above normal.",
+      "answers": [
+        { "text": "True", "correct": false },
+        { "text": "False", "correct": true }
+      ]
+    },
+    {
+      "question": " The prefix 'hyper-' means below or deficient.",
+      "answers": [
+        { "text": "True", "correct": false },
+        { "text": "False", "correct": true }
+      ]
+    },
+    {
+      "question": " The prefix 'brady-' indicates slowness or a low rate.",
+      "answers": [
+        { "text": "True", "correct": true },
+        { "text": "False", "correct": false }
+        ]
+    },
+    {
+      "question": " The prefix 'tachy-' is used to describe a fast or rapid condition.",
+      "answers": [
+        { "text": "True", "correct": true },
+        { "text": "False", "correct": false }
+        ]
+    },
+    {
+      "question": " The prefix 'dys-' suggests normal or healthy function.",
+      "answers": [
+        { "text": "True", "correct": false },
+        { "text": "False", "correct": true }
+        ]
+    },
+    {
+      "question": " The prefix 'eu-' is used to indicate good, normal, or well.",
+      "answers": [
+        { "text": "True", "correct": true },
+        { "text": "False", "correct": false }
+        ]
+    },
+    {
+      "question": " The prefix 'sub-' means above or excessive.",
+      "answers": [
+        { "text": "True", "correct": false },
+        { "text": "False", "correct": true }
+        ]
+    },
+    {
+      "question": " The prefix 'super-' is used to denote below or beneath.",
+      "answers": [
+        { "text": "True", "correct": false },
+        { "text": "False", "correct": true }
+        ]
+    },
+    {
+      "question": " The prefix 'intra-' refers to inside or within.",
+      "answers": [
+        { "text": "True", "correct": true },
+        { "text": "False", "correct": false }
+        ]
+    },
+    {
+      "question": " The prefix 'inter-' means outside or external.",
+      "answers": [
+          { "text": "True", "correct": false },
+          { "text": "False", "correct": true }
+        ]
+    },
+    {
+      "question": " The prefix 'endo-' is associated with outer or outermost.",
+      "answers": [
+          { "text": "True", "correct": false },
+          { "text": "False", "correct": true }
+        ]
+    },
+    {
+      "question": " The prefix 'exo-' indicates outer or external.",
+      "answers": [
+          { "text": "True", "correct": true },
+          { "text": "False", "correct": false }
+        ]
+    },
+    {
+      "question": " The prefix 'hemi-' means one-half or partial.",
+      "answers": [
+          { "text": "True", "correct": true },
+          { "text": "False", "correct": false }
+        ]
+    },
+    {
+      "question": " The prefix 'poly-' suggests few or a small number.",
+      "answers": [
+          { "text": "True", "correct": false },
+          { "text": "False", "correct": true }
+        ]
+    },
+    {
+      "question": " The prefix 'oligo-' indicates many or a large number.",
+      "answers": [
+          { "text": "True", "correct": true },
+          { "text": "False", "correct": false }
+        ]
+    },
+    {
+      "question": " The prefix 'micro-' means small or tiny.",
+      "answers": [
+          { "text": "True", "correct": true },
+          { "text": "False", "correct": false }
+        ]
+    },
+    {
+      "question": " The prefix 'macro-' is used to describe something small or minute.",
+      "answers": [
+          { "text": "True", "correct": false },
+          { "text": "False", "correct": true }
+        ]
+    },
+    {
+      "question": " The prefix 'mal-' suggests good or well.",
+      "answers": [
+          { "text": "True", "correct": false },
+          { "text": "False", "correct": true }
+        ]
+    },
+    {
+      "question": " The prefix 'benign-' is used to describe harmful or malignant conditions.",
+      "answers": [
+          { "text": "True", "correct": false },
+          { "text": "False", "correct": true }
+        ]
+    },
+    {
+      "question": " The prefix 'dys-' indicates difficult or painful.",
+      "answers": [
+          { "text": "True", "correct": true },
+          { "text": "False", "correct": false }
+        ]
+    },
+    {
+      "question": " The prefix 'a-' means without or lack of.",
+      "answers": [
+          { "text": "True", "correct": true },
+          { "text": "False", "correct": false }
+        ]
+    },
+    {
+      "question": " The prefix 'ante-' refers to before or in front of.",
+      "answers": [
+          { "text": "True", "correct": true },
+          { "text": "False", "correct": false }
+        ]
+    },
+    {
+      "question": " The prefix 'post-' indicates before or in front of.",
+      "answers": [
+          { "text": "True", "correct": false },
+          { "text": "False", "correct": true }
+        ]
+    },
+    {
+      "question": " The prefix 'peri-' is used to describe around or surrounding.",
+      "answers": [
+          { "text": "True", "correct": true },
+          { "text": "False", "correct": false }
+        ]
+    },
+    {
+      "question": " The prefix 'hypo-' is often used to denote low or deficient.",
+      "answers": [
+          { "text": "True", "correct": true },
+          { "text": "False", "correct": false }
+        ]
+    },
+    {
+      "question": " The prefix 'bi-' suggests one or single.",
+      "answers": [
+          { "text": "True", "correct": false },
+          { "text": "False", "correct": true }
+        ]
+    },
+    {
+      "question": " The prefix 'uni-' means one or single.",
+      "answers": [
+          { "text": "True", "correct": true },
+          { "text": "False", "correct": false }
+        ]
+    },
+    {
+      "question": " The prefix 'multi-' indicates many or multiple.",
+      "answers": [
+          { "text": "True", "correct": true },
+          { "text": "False", "correct": false }
+        ]
+    },
+    {
+      "question": " The prefix 'nulli-' is used to denote none or no.",
+      "answers": [
+          { "text": "True", "correct": true },
+          { "text": "False", "correct": false }
+        ]
+    },
+    {
+      "question": " The prefix 'pan-' is associated with all or every.",
+      "answers": [
+          { "text": "True", "correct": true },
+          { "text": "False", "correct": false }
+        ]
+    }
+    
+  ]

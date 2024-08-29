@@ -1,0 +1,213 @@
+[  
+    {
+      "question": "The suffix '-itis' refers to inflammation.",
+      "answers": [
+        { "text": "True", "correct": true },
+        { "text": "False", "correct": false }
+      ]
+    },
+    {
+      "question": "A condition characterized by an abnormal increase in cells or tissues is indicated by the suffix '-plasia.'",
+      "answers": [
+        { "text": "True", "correct": true },
+        { "text": "False", "correct": false }
+      ]
+    },
+    {
+      "question": "The suffix '-ectomy' is used to indicate the removal or excision of a structure",
+      "answers": [
+        { "text": "True", "correct": true },
+        { "text": "False", "correct": false }
+        ]
+    },
+    {
+      "question": "If a medical term ends with the suffix '-osis,' it typically means a state or condition of abnormal or diseased.",
+      "answers": [
+        { "text": "True", "correct": true },
+        { "text": "False", "correct": false }
+        ]
+    },
+    {
+      "question": "The suffix '-ology' is used to denote the study of a particular subject.",
+      "answers": [
+        { "text": "True", "correct": true },
+        { "text": "False", "correct": false }
+        ]
+    },
+    {
+      "question": "When '-algia' is added to the end of a word, it indicates a condition of pain. ",
+      "answers": [
+        { "text": "True", "correct": true },
+        { "text": "False", "correct": false }
+        ]
+    },
+    {
+      "question": "The suffix '-emia' is associated with the blood or a blood condition.",
+      "answers": [
+        { "text": "True", "correct": true },
+        { "text": "False", "correct": false }
+        ]
+    },
+    {
+      "question": "If a medical term ends with '-scopy,' it suggests a visual examination or observation. ",
+      "answers": [
+        { "text": "True", "correct": true },
+        { "text": "False", "correct": false }
+        ]
+    },
+    {
+      "question": "The suffix '-gram' refers to a record or image. ",
+      "answers": [
+        { "text": "True", "correct": true },
+        { "text": "False", "correct": false }
+        ]
+    },
+    {
+      "question": "'-pathy' is a suffix indicating a disease or abnormality. ",
+      "answers": [
+        { "text": "True", "correct": true },
+        { "text": "False", "correct": false }
+        ]
+    },
+    {
+      "question": "When '-rrhea' is part of a term, it signifies a flow or discharge.",
+      "answers": [
+        { "text": "True", "correct": true },
+        { "text": "False", "correct": false }
+        ]
+    },
+    {
+      "question": "The suffix '-phobia' is used to describe an aversion or fear. ",
+      "answers": [
+        { "text": "True", "correct": true },
+        { "text": "False", "correct": false }
+        ]
+    },
+    {
+      "question": "A procedure ending with the suffix '-centesis' involves the removal of fluid for diagnostic purposes.",
+      "answers": [
+          { "text": "True", "correct": true },
+          { "text": "False", "correct": false }
+        ]
+    },
+    {
+      "question": "'-rrhage' is a suffix indicating abnormal bleeding. ",
+      "answers": [
+        { "text": "True", "correct": false },
+        { "text": "False", "correct": true }
+        ]
+    },
+    {
+      "question": "The addition of '-ology' to a word implies a surgical procedure.",
+      "answers": [
+        { "text": "True", "correct": true },
+        { "text": "False", "correct": false }
+        ]
+    },
+    {
+      "question": "If a term ends with '-cele,' it refers to a hernia or swelling.",
+      "answers": [
+        { "text": "True", "correct": true },
+        { "text": "False", "correct": false }
+        ]
+    },
+    {
+      "question": "The suffix '-cyte' is associated with cells. ",
+      "answers": [
+        { "text": "True", "correct": true },
+        { "text": "False", "correct": false }
+        ]
+    },
+    {
+      "question": "'-plasty' is a suffix used to describe surgical repair or reconstruction.",
+      "answers": [
+        { "text": "True", "correct": true },
+        { "text": "False", "correct": false }
+        ]
+    },
+    {
+      "question": "A condition characterized by difficulty in breathing is indicated by the suffix '-pnea.'",
+      "answers": [
+        { "text": "True", "correct": true },
+        { "text": "False", "correct": false }
+        ]
+    },
+    {
+      "question": "The suffix '-lysis' refers to the breakdown or destruction of cells.",
+      "answers": [
+          { "text": "True", "correct": true },
+          { "text": "False", "correct": false }
+        ]
+    },
+    {
+      "question": "If a term ends with '-malacia,' it signifies abnormal softening of tissue.",
+      "answers": [
+          { "text": "True", "correct": true },
+          { "text": "False", "correct": false }
+        ]
+    },
+    {
+      "question": "'-rrhexis' is a suffix used to describe the rupture of a structure. ",
+      "answers": [
+          { "text": "True", "correct": true },
+          { "text": "False", "correct": false }
+        ]
+    },
+    {
+      "question": "The suffix '-physis' is associated with growth.",
+      "answers": [
+        { "text": "True", "correct": true },
+        { "text": "False", "correct": false }
+        ]
+    },
+    {
+      "question": "When '-osis' is part of a term, it suggests a surgical incision or cutting. ",
+      "answers": [
+        { "text": "True", "correct": true },
+        { "text": "False", "correct": false }
+        ]
+    },
+    {
+      "question": "The addition of '-stasis' to a word implies a stopping or controlling.",
+      "answers": [
+          { "text": "True", "correct": true },
+          { "text": "False", "correct": false }
+        ]
+    },
+    {
+      "question": "'-algia' is a suffix indicating a state of wellness or health.",
+      "answers": [
+          { "text": "True", "correct": false },
+          { "text": "False", "correct": true }
+        ]
+    },
+    {
+      "question": "The suffix '-megaly' refers to abnormal enlargement.",
+      "answers": [
+        { "text": "True", "correct": true },
+        { "text": "False", "correct": false }
+        ]
+    },
+    {
+      "question": "If a term ends with '-toxic,' it indicates a toxic or poisonous substance.",
+      "answers": [
+        { "text": "True", "correct": true },
+        { "text": "False", "correct": false }
+        ]
+    },
+    {
+      "question": "'-trophy' is a suffix associated with nutrition or growth.",
+      "answers": [
+        { "text": "True", "correct": true },
+        { "text": "False", "correct": false }
+        ]
+    },
+    {
+      "question": "The suffix '-stomy' is used to describe the creation of an artificial opening.",
+      "answers": [
+        { "text": "True", "correct": true },
+        { "text": "False", "correct": false }
+        ]
+    }
+    
+  ]

@@ -1,0 +1,273 @@
+[  
+    {
+      "question": "What does 'ICU' stand for in a hospital setting?",
+      "answers": [
+        { "text": "Intensive Care Unit", "correct": true },
+        { "text": "Inpatient Care Unit", "correct": false },
+        { "text": "Immediate Care Unit", "correct": false },
+        { "text": "Internal Control Unit", "correct": false }
+      ]
+    },
+    {
+      "question": "Which term refers to the process of recording the electrical activity of the heart over a period of time?",
+      "answers": [
+        { "text": "Electrocardiogram (ECG or EKG)", "correct": true },
+        { "text": "Electroencephalogram (EEG)", "correct": false },
+        { "text": "Endoscopy", "correct": false },
+        { "text": "Radiography", "correct": false }
+      ]
+    },
+    {
+        "question": "What is the medical term for the removal of the appendix?",
+        "answers": [
+          { "text": "Appendectomy", "correct": true },
+          { "text": "Appendicitis", "correct": false },
+          { "text": "Appendotomy", "correct": false },
+          { "text": "Appendoplasty", "correct": false }
+        ]
+    },
+    {
+        "question": "A physician who specializes in the treatment of cancer is called a:",
+        "answers": [
+          { "text": "Cardiologist", "correct": false },
+          { "text": "Oncologist", "correct": true },
+          { "text": "Dermatologist", "correct": false },
+          { "text": "Orthopedist", "correct": false }
+        ]
+    },
+    {
+        "question": "What does the acronym 'MRI' stand for in medical imaging?",
+        "answers": [
+          { "text": "Microscopic Radiographic Inspection", "correct": false },
+          { "text": "Medical Radiography Investigation", "correct": false },
+          { "text": "Molecular Respiratory Indicator", "correct": false },
+          { "text": "Magnetic Resonance Imaging", "correct": true }
+        ]
+    },
+    {
+        "question": "The term 'phlebotomy' refers to:",
+        "answers": [
+          { "text": "Surgical removal of the spleen", "correct": false },
+          { "text": "Repair of a fractured bone", "correct": false },
+          { "text": "Collection of blood for diagnostic purposes", "correct": true },
+          { "text": "Removal of a portion of the liver", "correct": false }
+        ]
+    },
+    {
+        "question": "What is the medical term for a heart attack?",
+        "answers": [
+          { "text": "Aneurysm", "correct": false },
+          { "text": "Myocardial Infarction", "correct": true },
+          { "text": "Angina", "correct": false },
+          { "text": "Arrhythmia", "correct": false }
+        ]
+    },
+    {
+        "question": "Which of the following is a surgical procedure to visually examine the interior of a joint?",
+        "answers": [
+          { "text": "Bronchoscopy", "correct": false },
+          { "text": "Laparoscopy", "correct": false },
+          { "text": "Arthroscopy", "correct": true },
+          { "text": "Endoscopy", "correct": false }
+        ]
+    },
+    {
+        "question": "The abbreviation 'CPR' stands for:",
+        "answers": [
+          { "text": "Cardiopulmonary Recovery", "correct": false },
+          { "text": "Cardiovascular Pulmonary Resuscitation", "correct": true },
+          { "text": "Centralized Patient Rehabilitation", "correct": false },
+          { "text": "Critical Postoperative Recovery", "correct": false }
+        ]
+    },
+    {
+        "question": "What does 'EMR' stand for in healthcare?",
+        "answers": [
+          { "text": "Emergency Medical Response", "correct": false },
+          { "text": "Electronic Medical Record", "correct": true },
+          { "text": "Efficient Medical Reporting", "correct": false },
+          { "text": "Essential Medical Rehabilitation", "correct": false }
+        ]
+    },
+    {
+        "question": "The term 'triage' in a hospital setting refers to:",
+        "answers": [
+          { "text": "Sorting and prioritizing patients based on the severity of their condition", "correct": true },
+          { "text": "A type of surgical procedure", "correct": false },
+          { "text": "Organizing medical records", "correct": false },
+          { "text": "Discharging patients after treatment", "correct": false }
+        ]
+    },
+    {
+        "question": "Which of the following terms refers to the process of measuring blood pressure?",
+        "answers": [
+          { "text": "Electroencephalogram (EEG)", "correct": false },
+          { "text": "Oximetry", "correct": false },
+          { "text": "Sphygmomanometer", "correct": true },
+          { "text": "Spirometry", "correct": false }
+        ]
+    },
+    {
+        "question": "The medical term for difficulty breathing is:",
+        "answers": [
+          { "text": "Dyspepsia", "correct": false },
+          { "text": "Dysphagia", "correct": false },
+          { "text": "Dyspnea", "correct": true },
+          { "text": "Dysuria", "correct": false }
+        ]
+    },
+    {
+        "question": "What does 'OB-GYN' stand for?",
+        "answers": [
+          { "text": "Obstetrics and Gynecology", "correct": true },
+          { "text": "Orthopedics and Genetics", "correct": false },
+          { "text": "Oncology and Biotechnology", "correct": false },
+          { "text": "Ophthalmology and Genetics", "correct": false }
+        ]
+    },
+    {
+        "question": "What is the purpose of a 'CBC' test in a medical laboratory?",
+        "answers": [
+          { "text": "Cholesterol and Blood Chemistry", "correct": false },
+          { "text": "Complete Blood Count", "correct": true },
+          { "text": "Coagulation and Bleeding Control", "correct": false },
+          { "text": "Cardiovascular Biomarker Check", "correct": false }
+        ]
+    },
+    {
+        "question": "The medical term for inflammation of the liver is:",
+        "answers": [
+          { "text": "Hepatitis", "correct": true },
+          { "text": "Nephritis", "correct": false },
+          { "text": "Appendicitis", "correct": false },
+          { "text": "Colitis", "correct": false }
+        ]
+    },
+    {
+        "question": "Which of the following is a common symptom of gastroesophageal reflux disease (GERD)?",
+        "answers": [
+          { "text": "Hypertension", "correct": false },
+          { "text": "Chest pain", "correct": true },
+          { "text": "Joint stiffness", "correct": false },
+          { "text": "Blurred vision", "correct": false }
+        ]
+    },
+    {
+        "question": "The abbreviation 'ENT' in medical terms refers to:",
+        "answers": [
+          { "text": "Emergency and Trauma", "correct": false },
+          { "text": "Endocrinology and Neurology", "correct": false },
+          { "text": "Ear, Nose, and Throat", "correct": true },
+          { "text": "Eye and Nervous System", "correct": false }
+        ]
+    },
+    {
+        "question": "A 'hematologist' specializes in the study and treatment of:",
+        "answers": [
+          { "text": "Skin disorders", "correct": false },
+          { "text": "Blood disorders", "correct": true },
+          { "text": "Bone disorders", "correct": false },
+          { "text": "Respiratory disorders", "correct": false }
+        ]
+    },
+    {
+        "question": "What does the acronym 'AED' stand for in emergency situations?",
+        "answers": [
+          { "text": "Automated External Defibrillator", "correct": true },
+          { "text": "Advanced Emergency Diagnosis", "correct": false },
+          { "text": "Airway and Esophageal Drainage", "correct": false },
+          { "text": "Ambulance and Emergency Dispatch", "correct": false }
+        ]
+    },
+    {
+      "question": "The medical term 'Arthralgia' refers to:",
+      "answers": [
+        { "text": "Inflammation of the joints", "correct": false },
+        { "text": "Pain in the joints", "correct": true },
+        { "text": "Stiffness of the joints", "correct": false },
+        { "text": "Deformity of the joints", "correct": false }
+      ]
+    },
+    {
+      "question": "Which of the following is a common method for administering medications directly into the bloodstream?",
+      "answers": [
+        { "text": "Oral administration", "correct": false },
+        { "text": "Intramuscular injection", "correct": false },
+        { "text": "Subcutaneous injection", "correct": false },
+        { "text": "Intravenous injection", "correct": true }
+      ]
+    },
+    {
+      "question": "The abbreviation 'C-section' in obstetrics stands for:",
+      "answers": [
+        { "text": "Cesarean Section", "correct": false },
+        { "text": "Circulatory System", "correct": false },
+        { "text": "Cranial Surgery", "correct": true },
+        { "text": "Cervical Spine", "correct": false }
+      ]
+    },
+    {
+      "question": "What is the purpose of an 'EKG' test?",
+      "answers": [
+        { "text": "To measure lung function", "correct": false },
+        { "text": "To assess kidney function", "correct": false },
+        { "text": "To monitor heart activity", "correct": true },
+        { "text": "To evaluate liver enzymes", "correct": false }
+      ]
+    },
+    {
+      "question": "The medical term 'dysphagia' refers to difficulty in:",
+      "answers": [
+        { "text": "Breathing", "correct": false },
+        { "text": "Swallowing", "correct": true },
+        { "text": "Hearing", "correct": false },
+        { "text": "Speaking", "correct": false }
+      ]
+    },
+    {
+      "question": "A 'pulmonologist' specializes in the treatment of:",
+      "answers": [
+        { "text": "Heart conditions", "correct": false },
+        { "text": "Lung conditions", "correct": true },
+        { "text": "Kidney conditions", "correct": false },
+        { "text": "Digestive system conditions", "correct": false }
+      ]
+    },
+    {
+      "question": "What does the term 'inpatient' mean in a hospital setting?",
+      "answers": [
+        { "text": "A patient receiving outpatient care", "correct": false },
+        { "text": "A patient admitted for overnight stay", "correct": true },
+        { "text": "A patient in the emergency room", "correct": false },
+        { "text": "A patient awaiting surgery", "correct": false }
+      ]
+    },
+    {
+      "question": "The medical term for the surgical removal of a kidney is:",
+      "answers": [
+        { "text": "Nephrectomy", "correct": true },
+        { "text": "Nephritis", "correct": false },
+        { "text": "Nephropathy", "correct": false },
+        { "text": "Nephrolithotomy", "correct": false }
+      ]
+    },
+    {
+      "question": "The acronym 'HIPAA' in healthcare stands for:",
+      "answers": [
+        { "text": "Health Insurance Portability and Accountability Act", "correct": true },
+        { "text": "Hospital Information Privacy and Access Act", "correct": false },
+        { "text": "Healthcare Information Protection and Authorization Act", "correct": false },
+        { "text": "Human Immunodeficiency and Patient Assistance Act", "correct": false }
+      ]
+    },
+    {
+      "question": "What does the term 'Pharmacology' refer to in the medical field?",
+      "answers": [
+        { "text": "Study of diseases", "correct": false },
+        { "text": "Study of drugs and medications", "correct": true },
+        { "text": "Surgical procedures", "correct": false },
+        { "text": "Study of the nervous system", "correct": false }
+      ]
+    }
+
+  ]
